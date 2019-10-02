@@ -1,6 +1,6 @@
 # flutter_enucompi_whatsapp
-
-A new Flutter project.
+ScreenShot do Aplicativo
+![Alt Text](https://github.com/iang12/flutter_enucompi_whatsapp/blob/master/screenshot_home.jpg)
 
 ## Getting Started
 
